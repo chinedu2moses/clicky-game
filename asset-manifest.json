@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/clicky-game/static/css/main.c32661e1.chunk.css",
+    "main.js": "/clicky-game/static/js/main.a768389b.chunk.js",
+    "main.js.map": "/clicky-game/static/js/main.a768389b.chunk.js.map",
+    "runtime-main.js": "/clicky-game/static/js/runtime-main.3c5f3143.js",
+    "runtime-main.js.map": "/clicky-game/static/js/runtime-main.3c5f3143.js.map",
+    "static/js/2.2ff7c561.chunk.js": "/clicky-game/static/js/2.2ff7c561.chunk.js",
+    "static/js/2.2ff7c561.chunk.js.map": "/clicky-game/static/js/2.2ff7c561.chunk.js.map",
+    "index.html": "/clicky-game/index.html",
+    "precache-manifest.a34e3df0e093d5a090f8fc5731be2239.js": "/clicky-game/precache-manifest.a34e3df0e093d5a090f8fc5731be2239.js",
+    "service-worker.js": "/clicky-game/service-worker.js",
+    "static/css/main.c32661e1.chunk.css.map": "/clicky-game/static/css/main.c32661e1.chunk.css.map",
+    "static/js/2.2ff7c561.chunk.js.LICENSE.txt": "/clicky-game/static/js/2.2ff7c561.chunk.js.LICENSE.txt",
+    "static/media/eyes1.png": "/clicky-game/static/media/eyes1.fd6a33c3.png",
+    "static/media/eyes10.png": "/clicky-game/static/media/eyes10.5bb565e5.png",
+    "static/media/eyes11.png": "/clicky-game/static/media/eyes11.c3184a7c.png",
+    "static/media/eyes12.png": "/clicky-game/static/media/eyes12.6ee41fb0.png",
+    "static/media/eyes2.png": "/clicky-game/static/media/eyes2.20b5ec39.png",
+    "static/media/eyes3.png": "/clicky-game/static/media/eyes3.a1bdaf35.png",
+    "static/media/eyes4.png": "/clicky-game/static/media/eyes4.ed73b658.png",
+    "static/media/eyes5.png": "/clicky-game/static/media/eyes5.94dcff86.png",
+    "static/media/eyes6.png": "/clicky-game/static/media/eyes6.f97ed937.png",
+    "static/media/eyes7.png": "/clicky-game/static/media/eyes7.4a54a1c6.png",
+    "static/media/eyes8.png": "/clicky-game/static/media/eyes8.24b55d73.png",
+    "static/media/eyes9.png": "/clicky-game/static/media/eyes9.f52d091f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c5f3143.js",
+    "static/js/2.2ff7c561.chunk.js",
+    "static/css/main.c32661e1.chunk.css",
+    "static/js/main.a768389b.chunk.js"
+  ]
+}
