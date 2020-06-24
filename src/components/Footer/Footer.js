@@ -2,6 +2,6 @@
 import React from "react";
 import "./Footer.css";
 
-const Footer = () => <div className="footer text-center">Dcoxmen Github:</div>;
+const Footer = () => <div className="footer text-center">Chinedu Github:</div>;
 
 export default Footer;
